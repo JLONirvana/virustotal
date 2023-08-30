@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import filedialog
 import requests
 
-API_KEY = "fd8b93572c9febb88eae6c51350b62ec515b7410ad36ecdfde25b27b461004f4"
+API_KEY = ""
 
 api = PublicApi(API_KEY)
 
